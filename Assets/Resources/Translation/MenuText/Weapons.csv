@@ -1,0 +1,32 @@
+Names,DE,EN,FR
+GluePassive,Passiv,Passive,XXX
+,,,
+Ballista_Name,Ballista,Ballista,XXX
+Ballista_Description,Feuert einen m�chtigen durchdringenden Bolzen.,Fires a powerfull piercing bolt.,XXX
+,,,
+Books_Name,Elektrobibel,Electrobible,XXX
+Books_Description,Alle paar Sekunden umkreisen dich elektrische Funken.,Electric sparks circle around you every couple seconds.,XXX
+,,,
+Catapult_Name,Katapult,Catapult,XXX
+Catapult_Description,Wirft springende Stachelkugeln//. die bei jeder Landung schaden verursachen.,Throws jumping spike balls that deal damage whenever they touch the ground.,XXX
+,,,
+HeatRadiation_Name,Hitzestrahlung,Heat Radiation,XXX
+HeatRadiation_Description,Gl�hend warme Hitze umgibt dich und f�gt Gegnern in der n�he schaden zu.,Flaming hot heat radiates from you//. dealing damage to nearby enemies.,XXX
+,,,
+Knives_Name,Pistole,Pistol,XXX
+Knives_Description,Feuert geschosse ab//. welche Gegner durchdringen.,Shoots bullets that pierce enemies.,XXX
+,,,
+Poison_Name,Gift,Poison,XXX
+Poison_Description,Wirft eine giftige Flasche//. welche eine Giftpf�tze hinterl�sst.,Throws a bottle of poison//. that leave a poisonous puddle behind.,XXX
+,,,
+ScatterBomb_Name,Schrapnellbombe,Scatterbomb,XXX
+ScatterBomb_Description,Wift eine Bombe//. welche in der luft explodiert und kleinere Projektile nach unten feuert.,Throws a bomb that explodes in the air//. while shooting smaller projectiles towards the ground.,XXX
+,,,
+Scythe_Name,Laserschwert,Lightsword,XXX
+Scythe_Description,Schwingt ein langsames//. aber m�chtiges Laswerschwert vor dich.,Swings a slow//. but powerfull lightsword in front of you.,XXX
+,,,
+Shotgun_Name,Schrotflinte,Shotgun,XXX
+Shotgun_Description,Feuert mehrere Kugeln gleichzeitig.,Fires multiple bullets at once.,XXX
+,,,
+Tesla_Name,Tesla,Tesla,XXX
+Tesla_Description,Feuert elektrische Funken//. welche zwischen Gegnern hin und her springen.,Fires electric sparks//. that bounce between enemies.,XXX

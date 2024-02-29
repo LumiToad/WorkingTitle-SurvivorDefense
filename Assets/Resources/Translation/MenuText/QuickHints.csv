@@ -1,0 +1,7 @@
+Names,DE,EN,FR
+XPHint,Du hast gerade eine XP Kugel aufgesammelt. Sammle mehr davon um eine neue Waffe zu bekommen.,You just collected a xp orb. Collect more of them to get a new weapon.,XXX
+BaseHint,Deine basis wird angegriffen. Verhindere unbedingt das ihre Leben unter 0 fallen.,Your base is under attack. Don't let its health fall below 0 at all costs.,XXX
+OverflowHint,Du kannst diese Waffe nicht benutzen//. weil du nur <m1> Waffen gleichzeitig verwenden kannst. Du kannst aber bis zu <m2> extra Waffen tragen um sie später zu verwenden.,You can't use this weapon//. because you can only hold <m1> weapons at once. However you can store up to <m2> extra Weapons for later.,XXX
+TurretHint,Du kannst zusätzliche Waffen mit Q und E auswählen um sie mit Linksklick als Turm zu platzieren//. so lange du den Generator verteidigt.,You are able to place down additional weapons as turrets by selecting them with Q and E and placing them with left click//. while defending the generator.,XXX
+NoPlacementHint,Du kannst auf gestreiften Flächen keine Türme platzieren.,You can't place turrets on striped areas.,XXX
+DashHint,Drücke Leertaste zum dashen.,Press Spacebar to dash.,XXX

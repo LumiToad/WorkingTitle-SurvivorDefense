@@ -1,0 +1,20 @@
+Names,DE,EN,FR,
+,,,,
+Glue_Easy,Einfach,Easy,XXX,
+Glue_Medium,Mittel,Medium,XXX,
+Glue_Hard,Hart,Hard,XXX,
+,,,,
+,,,,
+GlueAchivements,Errungenschaften,Achivements,xxx,
+GlueBack,zurück,back,xxx,
+,,,,
+Glue%,<m1>%,<m1>%,xxx,ex: 12% (twelve percent)
+,,,,
+Objective_Kill_Name,Zerstöre <m1> Gegner : <m2>,Destroy <m1> Enemies: <m2>,xxx,ex: Destroy basic enemies: hard
+Objective_Kill_Description,Zerstöre <m1> Gegner von der Art <m2> (<m3> übrig),Destroy <m1> enemies of the kind: <m2> (<m3> left),xxx,ex: Destroy 12.00 enemies of the kind: basic
+,,,,
+Objective_Damage_Name,Meisterschaft <m1> : <m2>,Mastery <m1> : <m2>,xxx,ex: Mastery Tesla: medium
+Objective_Damage_Description,Verursache <m1> schaden mit <m2> (<m3> übrig),Deal <m1> damage with <m2> (<m3> left),xxx,ex: Deal 12.000 damage with Tesla (1.200 left)
+,,,,
+Objective_Tutorial_Name,Tutorial,Tutorial,xxx,
+Objective_Tutorial_Description,Schliese das Tutorial ab.,Complete the Tutorial,xxx,

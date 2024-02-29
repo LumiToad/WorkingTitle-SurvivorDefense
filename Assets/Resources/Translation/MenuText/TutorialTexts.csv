@@ -1,0 +1,26 @@
+Names,DE,EN,FR
+GlueWelcome,Wilkommen,Welcome,XXX
+GlueWelcomeDescription,Willkomen zu Survivor Defense. Deine Mission ist es die Stromgeneratoren zu reparieren und sie vor fehlerhaften Robotern zu verteidigen.,Welcome to Survivor Defense. Your task is to repair the energy generators and to protect them from faulty robots.,XXX
+a,,,
+GlueGeneratorActivationTask,Aktiviere den Generator.,Activate the energy Generator,XXX
+GlueGeneratorActivationTaskDescription,Bewege dich zum Generator mit WASD und aktiviere den Generator in der mitte mit E,Move to the generator in the middle using WASD and activate it with E,XXX
+b,,,
+GlueWeapons,Waffen,Weapons,XXX
+GlueWeaponsDescription,Das sind deine Waffen. Sie feuern automatisch auf Gegner//. so lange du nicht zu weit von ihnen entfernt stehst,These are your Weapons. They fire automatically//. as long as you are close enough to an enemy.,XXX
+c,,,
+GlueDestroyTaskTitle,Gegner zerst�ren,Destroy enemies,XXX
+GlueDestroyDescription,Zerst�re die angreifenden Gegner//. bevor sie den Generator erreichen.,Destroy the approaching enemies//. bevor they reach the generator,XXX
+d,,,
+GlueXPOrbs,Erfahrung,Experience,XXX
+GlueXPOrbDescription,Besiegte Gegner lassen blaue Kugeln fallen. Sammle genug von ihnen auf um eine weitere Waffe zu bekommen.,Defeated enemies leave blue orbs behind. Collect enough of them to get a new weapon.,XXX
+e,,,
+GlueCollectXP,Sammle XP,Collect XP,XXX
+GlueCollectXPDescription,Sammle alle grünen Kugeln auf.,Collect all blue orbs.,XXX
+f,,,
+GlueTowers,T�me,Towers,XXX
+GlueTowerDescription,Du kannst deine Waffen auch als T�rme platzieren//. und so mehrere Orte gleichzeitig verteidigen. W�hle dazu eine mit Q oder E aus und platziere mit Linksklick wo du sie haben m�chtest.,You can place down your weapons as towers to defend multiple places at the same time. Select one with Q or E and place it with Leftclick wherever you want.,XXX
+g,,,
+GlueCongratulations,Gl�ckwunsch,Congratulations,XXX
+GlueCongratulationsDescription,Super! Du hast gerade deinen ersten Generator repariert und verteidigt. Machen wir uns auf dem weg zum n�chsten.,Awesome! You just repaired and defended your first generator. Let's go to the next one.,XXX
+,,,
+GlueLeft,<m1> �brig,<m1> left,XXX

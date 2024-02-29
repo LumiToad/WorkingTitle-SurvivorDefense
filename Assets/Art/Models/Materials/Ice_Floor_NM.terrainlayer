@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1953259897 &8574412962073106934
+TerrainLayer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Ice_Floor_NM
+  m_DiffuseTexture: {fileID: 2800000, guid: 882a27d091bf26f439b43b034d5901fd, type: 3}
+  m_NormalMapTexture: {fileID: 2800000, guid: d54bfae1197478d43ad5f9e0b05d82d4, type: 3}
+  m_MaskMapTexture: {fileID: 2800000, guid: 97274b2b75a35254d8ff8b371ffab7fa, type: 3}
+  m_TileSize: {x: 20, y: 20}
+  m_TileOffset: {x: 0, y: 0}
+  m_Specular: {r: 0, g: 0, b: 0, a: 0}
+  m_Metallic: 0
+  m_Smoothness: 0
+  m_NormalScale: 50
+  m_DiffuseRemapMin: {x: 0, y: 0, z: 0, w: 0}
+  m_DiffuseRemapMax: {x: 0.047169805, y: 0.024703847, z: 0.013572442, w: 1}
+  m_MaskMapRemapMin: {x: 0, y: 0.66517955, z: 0, w: 0}
+  m_MaskMapRemapMax: {x: 0, y: 0.71202594, z: 1, w: 0}
