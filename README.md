@@ -35,7 +35,7 @@ https://github.com/LumiToad/WorkingTitle-SurvivorDefense/assets/129980440/9b6f76
     <li><a href="https://github.com/LumiToad/WorkingTitle-SurvivorDefense/blob/main/Assets/Scripts/Player/Player.cs">Out of Bounds respawn<a/></li>
       The player script was mostly programmed by [BasKrueger](https://github.com/BasKrueger).<br />
       Methods for the respawn are: DamageOnOutsideOfScreen(), GetSaveTeleportSpot(...), TeleportToCenter().<br />
-      It will check in a circle from the middle of the screen, whether or not the player can spawn there, if you get pushed off screen.
+      It will check in a circle from the middle of the screen,<br /> whether or not the player can spawn there, if you get pushed off screen.<br />
       <img src="https://github.com/LumiToad/WorkingTitle-SurvivorDefense/assets/129980440/68d75985-f398-459f-8796-98e5493395b4" width="450" height="250" />
 
   </ul>
