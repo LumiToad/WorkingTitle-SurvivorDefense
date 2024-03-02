@@ -25,11 +25,15 @@ https://github.com/LumiToad/WorkingTitle-SurvivorDefense/assets/129980440/9b6f76
   
   <hr />
   <h2>Responsiblities</h2>
-  !!!!!!!!!!!!!!!!
-  - The entire gameplay programming -<br /><br />
-  Including UI, Features, everything.<br />
-  Since I started learning programming only a few month prior, I had some help from teachers.<br />
-  But the implementation was still my responsibility.<br /><br />
+  - Some gameplay programming -<br /><br />
+  Some examples:
+  <ul>
+    <li><a href="https://github.com/LumiToad/WorkingTitle-SurvivorDefense/blob/main/Assets/Scripts/Translation/CSVLanguageFileParser.cs">CSV parser for language files<a/></li>
+    <li><a href="https://github.com/LumiToad/WorkingTitle-SurvivorDefense/blob/main/Assets/Scripts/Translation/TextByLanguage.cs">A system which will replace texts in TestMeshPro<a/></li>
+    <li><a href="https://github.com/LumiToad/WorkingTitle-SurvivorDefense/tree/main/Assets/Scripts/Camera">Camera scrolling for level sections (cut in final game)<a/></li>
+      This one was a challenge, for several reasons.<br />
+      I learned about the importance of communication with your lead engineer<br />
+  </ul>
   - Create tools, using Godot features -<br /><br />
   Created tools for level / game design, such as:<br />
     <li>Camera Control Zones</li>
