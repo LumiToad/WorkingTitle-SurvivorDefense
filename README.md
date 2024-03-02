@@ -36,6 +36,8 @@ https://github.com/LumiToad/WorkingTitle-SurvivorDefense/assets/129980440/9b6f76
       The player script was mostly programmed by [BasKrueger](https://github.com/BasKrueger).<br />
       Methods for the respawn are: DamageOnOutsideOfScreen(), GetSaveTeleportSpot(...), TeleportToCenter().<br />
       It will check in a circle from the middle of the screen, whether or not the player can spawn there, if you get pushed off screen.
+      <img src="https://github.com/LumiToad/WorkingTitle-SurvivorDefense/assets/129980440/68d75985-f398-459f-8796-98e5493395b4" width="450" height="250" />
+
   </ul>
   - Various programming -<br /><br />
   <ul>
@@ -50,7 +52,7 @@ https://github.com/LumiToad/WorkingTitle-SurvivorDefense/assets/129980440/9b6f76
   - Communication with team -<br /><br />
   Should be a given.<br />
   This is specifically about technincal communication, such as explaining and helping with version control,<br />
-  technical workflows for the implementation of 2D / 3D assets in Unity and so on.
+  technical workflows for the implementation of 2D / 3D assets in Unity and so on.<br />
   For example, we had to figure out some 3D modeling guidelines together, because the high amount of<br />
   enemies were a performance challenge.
   <hr />
