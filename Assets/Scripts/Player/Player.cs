@@ -108,7 +108,6 @@ public class Player : MonoBehaviour, IWeaponHolder, IDamageAble, IDamageSource
         movement.FixedMovementUpdate(transform, rb);
     }
 
-    // Von mir aus kannst du die in eine eigene Klasse verschieben, aber ich übernehme keine Verantwortung, wenn du das hier veränderst.
     private IEnumerator TeleportToCenter()
     {
         yield return new WaitForEndOfFrame();
@@ -122,7 +121,6 @@ public class Player : MonoBehaviour, IWeaponHolder, IDamageAble, IDamageSource
         transform.position = saveSpot;
     }
 
-    // Von mir aus kannst du die in eine eigene Klasse verschieben, aber ich übernehme keine Verantwortung, wenn du das hier veränderst.
     private Vector3 GetSaveTeleportSpot(float radius, float angleRad, float screenWidthMid, float screenHeightMid, LayerMask excludeLayers)
     {
         float x = screenWidthMid + (radius * Mathf.Cos(angleRad));
