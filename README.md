@@ -6,28 +6,26 @@
     This game was developed as a student project in 10 weeks at the <a href="https://www.school4games.net">School For Games</a> in Berlin! <br />
     <b>IMPORTANT!</b> This repo represents an earlier stage of developement of the game <a href="https://suchti0352.itch.io/scrap-fever">Scrap Fever</a> (<a href="https://github.com/BasKrueger/ScrapFever/tree/main">Repo</a>)<br />
     I left the developement of the game, but only because another team lost their UI programmer.<br />
-    Meanwhile <b>this</b> project was about to change it's scope to something much smaller for unrelated reasons.<br />
+    Meanwhile <b><i>this</i></b> project was about to change it's scope to something much smaller for unrelated reasons.<br />
     A lot of unfinished features are still in this version of the game.
     <br /> <br />
   </p>
-  
 
-https://github.com/LumiToad/BrevityOfGravity/assets/129980440/8723555e-7f94-41c4-b3c0-b3bc380f8ad1
-
+https://github.com/LumiToad/WorkingTitle-SurvivorDefense/assets/129980440/9b6f76e6-2f16-4df0-8ef3-aa84d3239053
 
   <hr />
   <h2>Engines / Languages</h2>
   Unity 2022.3.5f1, C#, Protobuf proto3
 
   <hr />
-  <h2>Roles</h2>
+  <h2>Roles up to this point of developement</h2>
   - Gameplay programming -<br />
-  - Tool programming -<br />
-  - Game Design -<br />
-  - Technical Lead -
+  - "Various things" programmer (Saving game / Options)
+  - Some Game Design -<br />
   
   <hr />
   <h2>Responsiblities</h2>
+  !!!!!!!!!!!!!!!!
   - The entire gameplay programming -<br /><br />
   Including UI, Features, everything.<br />
   Since I started learning programming only a few month prior, I had some help from teachers.<br />
