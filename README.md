@@ -21,7 +21,6 @@ https://github.com/LumiToad/WorkingTitle-SurvivorDefense/assets/129980440/9b6f76
   <h2>Roles up to this point of developement</h2>
   - Gameplay programming -<br />
   - "Various things" programmer (Saving game / Options)
-  - Some Game Design -<br />
   
   <hr />
   <h2>Responsiblities</h2>
@@ -32,7 +31,9 @@ https://github.com/LumiToad/WorkingTitle-SurvivorDefense/assets/129980440/9b6f76
     <li><a href="https://github.com/LumiToad/WorkingTitle-SurvivorDefense/blob/main/Assets/Scripts/Translation/TextByLanguage.cs">A system which will replace texts in TestMeshPro<a/></li>
     <li><a href="https://github.com/LumiToad/WorkingTitle-SurvivorDefense/tree/main/Assets/Scripts/Camera">Camera scrolling for level sections (cut in final game)<a/></li>
       This one was a challenge, for several reasons.<br />
-      I learned about the importance of communication with your lead engineer<br />
+      I learned about the importance of communicating with your lead engineer.<br />
+      Also the entire feature would have been much easier to realise without using the Cinemachine plugin<br />
+    <li><a href="https://github.com/LumiToad/WorkingTitle-SurvivorDefense/tree/main/Assets/Scripts/Camera">Out of Bounds respawn<a/></li>
   </ul>
   - Create tools, using Godot features -<br /><br />
   Created tools for level / game design, such as:<br />
